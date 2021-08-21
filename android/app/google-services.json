@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303901662823",
+    "project_id": "time-cheking-flutter",
+    "storage_bucket": "time-cheking-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303901662823:android:862f4c01870dafb8677ec2",
+        "android_client_info": {
+          "package_name": "com.example.hanoiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303901662823-lcgchal0bjc9nnukbp5boesjkfkpm2ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanoiapp",
+            "certificate_hash": "bf22f6e8e36ccfb39fa27f2d81a5da214d4c8cc2"
+          }
+        },
+        {
+          "client_id": "303901662823-rbn5e59llc7roueq6gpaq8qv5jrltbb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYobPRgw5PEnCJhtFWDsrWhqXJgfXqpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303901662823-rbn5e59llc7roueq6gpaq8qv5jrltbb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
